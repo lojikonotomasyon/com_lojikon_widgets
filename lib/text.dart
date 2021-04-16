@@ -5,7 +5,7 @@ class LText extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       child: Text(
-        "Sample LText",
+        "Sample LText 2",
       ),
     );
   }
